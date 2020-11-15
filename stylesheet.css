@@ -1271,25 +1271,26 @@ audio {
 }
 
 .cake-cover {
-	margin-top: 50px;
+	margin-top: 40px;
 }
 .message {
 	margin-top: 100px;
 	display: none;
 }
 .message p {
-	font-family: 'Signika', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 20px;
 	text-transform: uppercase;
-	color: #C4515C;
-	text-shadow: 2px 2px 2px #FFF;
+	color: #FFF;
+	text-shadow: 2px 2px 2px #C4515C;
 	display: none;
-	font-weight: bold;
+	font-weight: 700;
 }
 
 .btn-primary {
         border-color: #466baf;
-        padding: 10px;
+		padding: 10px;
+		margin-bottom: 50px;
         text-transform: uppercase;
         font-family: 'Signika', sans-serif;
         font-weight: 700;
